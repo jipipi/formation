@@ -1,1 +1,8 @@
-salut c'est moi
+<html>
+<head>
+<title>new web page</title>
+</head>
+<body>
+it's a kind of magic : queen
+</body>
+</html>

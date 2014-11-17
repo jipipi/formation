@@ -1,7 +1,3 @@
-<<<<<<< HEAD
 Hello the branch8
-=======
-hola:x
-:
 
->>>>>>> a8d8b00b9b907ba647deb244f69f17fd01614c8d
+Modification de la branche 8 par lroguet

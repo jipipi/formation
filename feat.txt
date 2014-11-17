@@ -1,9 +1,7 @@
-<<<<<<< HEAD
+
 new feature
 
 Comment ça va à l'appart?
-=======
-// marche pas
-FEATT
-AAAAT
->>>>>>> 2aa1d37460024e788991c14d9d04b4a499177b6b
+
+Bah ecoute ca va et toi ?
+
